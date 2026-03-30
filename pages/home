@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <link rel="stylesheet" href="../style.css"> 
+</head>
+<body> 
+    
+    <div class = "header-card"> 
+        <div class="homePageLink">
+            <a href = /pages/home> Home</a>
+            <a href = /pages/gallery> Gallery</a>
+        </div>
+    </div>
+    <div class = "main-card">
+        <h1> Zig Zog's </h1>
+        <div class = "textStyleParagraph">
+            <p>
+            is an independently owned and operated record shop
+            just a short drive away from nearby Iowa City. </p> 
+            <p>Zig Zog's is a pre-owned music shop specializing in Vinyl LPs, 
+            CDs, and Cassettes. Opening in February of 2026, we are excited 
+            to be a part of the North Liberty community. Whether it's rock, jazz, 
+            or country, we have a wide variety of albums at fair prices. </p>
+           <p> <b>Got a box of albums collecting dust? </b>Bring them in! 
+            We purchase music collections. 
+            </p>
+        </div>
+
+
+    </div>
+
+    <div class="main-card">
+    <p>
+    <b> Location: </b>
+        <p>7 Hawkeye Dr </p>
+        <p>Unit #105</p>
+        <p>North Liberty, IA 52317</p>
+    <p>
+    <b> Hours: </b>
+        <p> Monday: Closed </p>
+        <p> Tuesday: 11AM - 5PM </p>
+        <p> Wednesday: 11AM - 5PM </p>
+        <p> Thursday: 11AM - 5PM </p>
+        <p> Friday: 11AM - 5PM </p>
+        <p> Saturday: 11AM - 5PM </p>
+        <p> Sunday: Closed </p>
+    </p>    
+    </div>
+
+
+</body>
+</html>
