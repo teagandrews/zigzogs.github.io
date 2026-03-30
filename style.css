@@ -20,6 +20,9 @@ h1 {
 }
 
 body {
+    background: radial-gradient(circle at bottom, transparent 24%, #657B5F 25%, #657B5F 30%, transparent 31%, transparent 39%, #657B5F 40%, #657B5F 45%, transparent 46%), radial-gradient(circle at top, transparent 24%, #657B5F 25%, #657B5F 30%, transparent 31%, transparent 39%, #657B5F 40%, #657B5F 45%, transparent 46%), radial-gradient(circle at left, transparent 24%, #657B5F 25%, #657B5F 30%, transparent 31%, transparent 39%, #657B5F 40%, #657B5F 45%, transparent 46%), radial-gradient(circle at right, transparent 24%, #657B5F 25%, #657B5F 30%, transparent 31%, transparent 39%, #657B5F 40%, #657B5F 45%, transparent 46%);
+    background-size: 3em 3em;
+    background-color: #f8debf;
     background-color: #A78258;
     font-family: science-gothic;
     font-size: small;
@@ -86,10 +89,13 @@ p {
 
 img {
     position: relative;
-    padding-top: 10%;
-    padding-bottom: 10%;
-    max-width: 100%;
-    size: auto;
+    margin: auto;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    max-width: 70%;
+    background-color: antiquewhite;
+    padding: 4px;
+    display: grid;
 }
 
 a:visited, a:link, a:active {

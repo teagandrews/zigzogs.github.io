@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <link rel="stylesheet" href="../style.css"> 
+</head>
+<body> 
+    <div class = "header-card"> 
+        <div class="homePageLink">
+            <a href = /pages/home> Home </a>
+            <a href = /pages/gallery> Gallery </a>
+        </div>
+    </div>
+    <div class = "main-card"> 
+    <div class="textStyleParagraph">
+        <p>
+        Artwork and other stuff!
+        </p>
+    </div>
+    </div>
+
+    <img src="../images/grandopening.jpeg" alt="Zig Zog's grand opening art" </img>
+    <img src="../images/littlevillage_1.jpg" alt="Wide shot on opening day" </img>
+    <img src="../images/littlevillage_2.jpg" alt="Oingo Boingo being spun" </img>
+    <img src="../images/littlevillage_3.jpg" alt="Perusing through vinyl" </img>
+    <img src="../images/littlevillage_4.jpg" alt="Owner Isaac Smith chatting with a customer" </img>
+    <img src="../images/littlevillage_5.jpg" alt="The weird and uncategorizable" </img>
+    <img src="../images/littlevillage_6.jpg" alt="Picking out a record" </img>
+    <img src="../images/littlevillage_7.jpg" alt="Flipping through records" </img>
+</body>
+</html>
